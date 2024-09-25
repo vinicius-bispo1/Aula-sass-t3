@@ -1,0 +1,27 @@
+h1 {
+  color: red;
+}
+
+.caixa1 {
+  width: 200px;
+  height: 100px;
+  background-color: yellow;
+}
+
+#titulo {
+  color: green;
+}
+
+section {
+  border: solid 2px;
+}
+section .caixa2 {
+  background-color: cadetblue;
+}
+section .caixa2 p {
+  color: red;
+}
+
+* {
+  background-color: burlywood;
+}/*# sourceMappingURL=style.css.map */

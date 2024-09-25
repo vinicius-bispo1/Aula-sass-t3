@@ -1,0 +1,36 @@
+h1{
+    color: red;
+}
+
+// id -> apelido para estilizar a tag
+// class -> apelido para estilizar a tag
+// tag -> estilizar a tag
+
+.caixa1{
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+}
+
+#titulo{
+    color: green;
+}
+
+
+// .nome{
+//     color: blue;
+// }
+
+section{
+    border: solid 2px;
+    .caixa2{
+        background-color: cadetblue;
+        p{
+            color: red;
+        }
+    }
+}
+
+*{
+   background-color: burlywood; 
+}
